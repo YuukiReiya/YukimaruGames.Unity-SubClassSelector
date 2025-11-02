@@ -1,0 +1,2 @@
+# YukimaruGames.Unity-SubClassSelector
+SubClassSelector
